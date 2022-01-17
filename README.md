@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning microservices tech (SignalR, RabbitMQ, Docker)
 - 💬 Ask me about drums and .Net.
 - 📫 How to reach me: selcukbilgen@hotmail.com
-- ⚡ Fun fact: I take off my glasses at night and turn into a drummer :)
+- ⚡ Fun fact: I take off my glasses at night and become a drummer :)
