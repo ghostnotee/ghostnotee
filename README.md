@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ghostNoté
+### Hi there 👋 I'm Selçuk
 
 
 - 🔭 I’m currently working on .Net
