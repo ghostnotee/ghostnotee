@@ -7,8 +7,8 @@ I'm a backend-focused developer working mainly with **.NET** and **C#**. I enjoy
 - Experienced in **Entity Framework**, **REST APIs**, and **SQL**
 - Use **Blazor** for frontend when needed
 - Always learning and improving
-- 🔭 I’m currently working on .Net
-- 🌱 I’m currently learning Blazor & MAUI.
+- 🔭 I’m currently working on **.Net**
+- 🌱 I’m currently learning **Blazor & MAUI**
   
 ## Contact
 - 📫 Email: [selcukbilgen@hotmail.com](selcukbilgen@hotmail.com)
