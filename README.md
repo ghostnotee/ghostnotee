@@ -11,4 +11,4 @@ I'm a backend-focused developer working mainly with **.NET** and **C#**. I enjoy
 - 🌱 I’m currently learning **Blazor & MAUI**
   
 ## Contact
-- 📫 Email: [selcukbilgen@hotmail.com](selcukbilgen@hotmail.com)
+- 📫 Email: [selcuk@bil.gen.in](selcuk@bil.gen.in)
